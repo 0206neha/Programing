@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+cout<<"Hello";
+
 struct Node
 {
     int data;
